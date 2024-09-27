@@ -4,7 +4,7 @@
     This file demonstrates working with floating-point numbers in Kotlin.
     
     **Code Explanation:**
-    ```kotlin
+    ```python
     package com.example.test
 
     fun main() {
